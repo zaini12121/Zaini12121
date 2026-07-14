@@ -62,11 +62,11 @@ With a strong foundation in **React, FastAPI, and PostgreSQL**, I transform comp
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zaini12121&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebymz&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaini12121&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codebymz&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zaini12121&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=codebymz&theme=radical&hide_border=true)
 
 </div>
 
@@ -77,19 +77,8 @@ With a strong foundation in **React, FastAPI, and PostgreSQL**, I transform comp
 ### 🤖 AI-Powered Portfolio Builder
 A modern dark-themed portfolio generator built with **React** and **AI integration**.
 - Features: Interactive design, AI suggestions, responsive layout
-- **[Live Demo](https://mzainulabdin.lovable.app/)** | **[Source Code](https://github.com/zaini12121/Portfolio)**
+- **[Live Demo](https://mzainulabdin.lovable.app/)** | **[Source Code](https://github.com/codebymz/Portfolio)**
 
-### 📊 E-commerce Dashboard
-End-to-end dashboard built with **React** and **Node.js**.
-- Features: Analytics, inventory management, real-time data visualization
-- Technologies: React, Node.js, PostgreSQL, Chart.js
-
-### 🔮 ML Stock Predictor
-Data science project predicting stock trends using **Python** and **Machine Learning**.
-- Features: Model training, data visualization, prediction engine
-- Technologies: Python, Scikit-learn, Pandas, Matplotlib
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -103,7 +92,7 @@ Data science project predicting stock trends using **Python** and **Machine Lear
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zaini12121&theme=react-dark&hide_border=true)](https://github.com/zaini12121)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=codebymz&theme=react-dark&hide_border=true)](https://github.com/zaini12121)
 
 ---
 
@@ -123,10 +112,10 @@ I specialize in building **full-stack web applications** with a focus on **React
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/mzainulabdin.vercel.app-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mzainulabdin.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/mzainulabdin.vercel.app-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://mzainulabdin.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-zzawar521@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzawar521@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaini12121)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaini12121)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebymz)
 
 </div>
 
@@ -148,7 +137,7 @@ I specialize in building **full-stack web applications** with a focus on **React
 
 **⭐ If you find my work interesting, consider giving my repositories a star!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=zaini12121&color=green&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=codebymz&color=green&style=flat-square)
 
 *Last updated: 2026-05-13*
 
@@ -159,5 +148,5 @@ I specialize in building **full-stack web applications** with a focus on **React
 ### 🔗 Quick Links
 - 🌐 **[Portfolio Website](https://mzainulabdin.vercel.app/)**
 - 📧 **[Email Me](mailto:zzawar521@gmail.com)**
-- 💼 **[View My Projects](https://github.com/zaini12121?tab=repositories)**
+- 💼 **[View My Projects](https://github.com/codebymz?tab=repositories)**
 
