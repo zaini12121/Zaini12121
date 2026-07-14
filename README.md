@@ -157,7 +157,7 @@ I specialize in building **full-stack web applications** with a focus on **React
 ---
 
 ### 🔗 Quick Links
-- 🌐 **[Portfolio Website](https://mzainulabdin.lovable.app/)**
+- 🌐 **[Portfolio Website](https://mzainulabdin.vercel.app/)**
 - 📧 **[Email Me](mailto:zzawar521@gmail.com)**
 - 💼 **[View My Projects](https://github.com/zaini12121?tab=repositories)**
 
